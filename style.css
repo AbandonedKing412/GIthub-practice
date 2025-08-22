@@ -1,0 +1,35 @@
+body {
+  background-image: url("freewater.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: comic sans ms;
+}
+h1 {
+  text-align: center;
+  background-color: #e66700;
+  font-family: comic sans ms;
+  border: 2px dotted rgb(0, 0, 0);
+  padding: 10px 15px;
+  width: 250px;
+  margin: 0 auto 20px auto;
+}
+p {
+  text-align: justify;
+  font-style: italic;
+  background-color: hsl(200, 100%, 85%);
+  padding: 20px;
+  border-top: 3px solid black;
+  border-right: 3px dashed black;
+  border-bottom: 3px dotted black;
+  border-left: 3px double black;
+  width: 500px;
+  margin: 0 auto; 
+}
+span {
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(200, 50, 50);
+  margin: 0 5px 0 2px;
+}
